@@ -1,13 +1,8 @@
 <html>
 
 <body>
-    <style>
-        button{
-           max-width: 100%;
-           width: 100px;
-        }
-    </style>    
-    <?php
+   
+   <?php
     echo("<h4>Ejericio 1</h4>");
     $numero1=rand(0,10);
     $numero2=rand(0,10);
@@ -34,8 +29,16 @@
     $par1=rand(1,255);
     $par2=rand(1,255);
     $par3=rand(1,255);
-    echo("<button style='background-color:rgb($par1,$par2,$par3)'></button>
-    <button style='background-color:rgb($par2,$par3,$par1)'></button>")
+    echo("<div style='border: 1px solid white;
+  height: 50px;
+  width: 400px;
+  display: grid;
+  grid-template-columns:auto auto;'>
+    <div style=' border: 1px solid white;
+    background-color: rgb($par1,$par3,$par1)'></div>
+    <div style='border: 1px solid white;
+    background-color: rgb($par1,$par2,$par3)'></div>
+  </div>")
     ?>
 
    
