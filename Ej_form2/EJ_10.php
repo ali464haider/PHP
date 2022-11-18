@@ -39,6 +39,9 @@
             border: 2px solid black;
             padding: 5px;
         }
+        input[type=radio]{
+            padding-right: 5px;
+        }
     </style>
 </head>
 

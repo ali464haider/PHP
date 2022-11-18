@@ -1,0 +1,16 @@
+Nombre:Ali
+Apelldios:Haider
+Edad:21
+Telefono:637621977
+Correo:ali464haider@gmail.com
+Nombre:Ali
+Apelldios:Haider
+Edad:21
+Telefono:637621977
+Correo:ali464haider@gmail.com
+Nombre:Ali
+Apelldios:Haider
+Edad:21
+Telefono:637621977
+Correo:ali464haider@gmail.com
+----------------------------

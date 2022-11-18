@@ -19,6 +19,7 @@
 
     $nombreEr = $apellidoEr = $direccion = $idiomas = $genero = $edad = $correo = $estudios = $fecha_nacimiento = "";
     $nombre = $apellido = $direccionEr = $correoEr = "";
+    $imagen = "";
 
     function recoger_Dato($var)
     {

@@ -38,7 +38,7 @@ comprueba_pcre($patron, $texto, "es un único número");
 $patron = "/^[0-9]*[02468]$/";
 comprueba_pcre($patron, $texto, "es un único número par");
 
-$patron = "/^[69][0-9]{8}$/";
+$patron = "/^[6|9][0-9]{8}$/";
 comprueba_pcre($patron, $texto,  "es un teléfono de 9 cifras que empieza por 6 o 9");
 
 $patron = "/^[0-9]{1,8}[A-Z]?$/";

@@ -1,0 +1,2 @@
+mediteraneo:garcia:12:martes
+madrid:alcorco:12:domingo
